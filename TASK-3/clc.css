@@ -1,0 +1,29 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    width: 50px;
+    /* border: 2px black; */
+    border-radius: 9px;
+    background-color: aqua;
+    border-color: rgb(188, 18, 18) ;
+    cursor: pointer;
+}
+
+.row{
+    padding: 9px 0;
+}
+
+.row input{
+    padding: 9px 28px;
+    margin: 0;
+    width: 170px;
+    /* border: 2px black; */
+    border-color: aqua;
+    border-radius: 9px;
+}
