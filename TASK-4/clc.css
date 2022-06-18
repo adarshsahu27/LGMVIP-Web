@@ -10,6 +10,7 @@ html,body{
     width: 50px;
     /* border: 2px black; */
     border-radius: 9px;
+    background-color: aqua;
     border-color: rgb(188, 18, 18) ;
     cursor: pointer;
 }
